@@ -1,5 +1,3 @@
-import string
-
 # strip去除空格
 s = ' abcd efg  '
 print(s.strip())

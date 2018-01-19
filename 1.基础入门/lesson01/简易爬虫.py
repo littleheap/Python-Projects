@@ -1,9 +1,6 @@
-import requests
-import time
-import xml.etree.ElementTree as ET
-
-from multiprocessing.dummy import Pool as ThreadPoo;
 from xml.parsers.expat import ParserCreate
+
+import requests
 
 
 class DefaultSaxHandler(object):
