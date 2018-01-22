@@ -1,5 +1,4 @@
 # Python Courses
-:pushpin: Python教程整理
 * ## [1.基础入门](./1.基础入门)
     * ### [lesson01](./1.基础入门/lesson01)  
         * #### [位运算](./1.基础入门/lesson01/%E4%BD%8D%E8%BD%AC%E6%8D%A2.py) 
