@@ -26,10 +26,6 @@ def numpysum(n):
 # print(numpysum(3))
 
 # 效率比较
-# 效率比较
-
-# 效率比较
-# 效率比较
 from datetime import datetime
 
 import numpy as np
