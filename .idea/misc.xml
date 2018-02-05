@@ -3,7 +3,5 @@
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.6.1 (E:\Anaconda\Install\python.exe)" project-jdk-type="Python SDK">
-    <output url="file://$PROJECT_DIR$/out" />
-  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.6 (MachineLearning_ChinaHadoop) (1)" project-jdk-type="Python SDK" />
 </project>
